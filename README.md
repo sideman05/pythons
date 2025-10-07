@@ -24,5 +24,11 @@ sudo apt update
 
 # Upgrade installed packages
 sudo apt upgrade -y
+```
+
+<pre style="background-color:#0d1117;color:#00ff00;padding:15px;border-radius:10px;">
+elly@kali:~$ sudo apt update
+elly@kali:~$ sudo apt upgrade -y
+</pre>
 
 
