@@ -31,4 +31,12 @@ elly@kali:~$ sudo apt update
 elly@kali:~$ sudo apt upgrade -y
 </pre>
 
+```css
+body{
+    display:flex;
+    flex-direction: column;
+    margin: 2rem;
+    padding: 1px;
+}
+```
 
