@@ -1,10 +1,19 @@
 # pythons
 ` hello world `
 > pip install git
-
-<html>
-<body>
-<button>click me</button>
-</body>
-</html>
+<a href="https://example.com" target="_blank">
+  <button style="
+    background-color:#4CAF50;
+    border:none;
+    color:white;
+    padding:10px 20px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:16px;
+    border-radius:8px;
+    cursor:pointer;">
+    click here
+  </button>
+</a>
 # pyth
