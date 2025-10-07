@@ -16,4 +16,7 @@
     click here
   </button>
 </a>
+
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-28a745?style=for-the-badge)](https://example.com)
+
 # pyth
