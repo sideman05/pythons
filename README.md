@@ -17,3 +17,12 @@ print("Hello, world!")
 </html>
 ```
 
+
+```bash
+# Update package list
+sudo apt update
+
+# Upgrade installed packages
+sudo apt upgrade -y
+
+
