@@ -6,7 +6,7 @@ print("Hello, world!")
 
 
 # html code
-```html
+```
 <html>
 <head>
 <title>Website</title>
