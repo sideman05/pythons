@@ -1,7 +1,11 @@
+#python code
 
 ```python
 print("Hello, world!")
+```
 
+
+#html code
 ```html
 <html>
 <head>
@@ -11,4 +15,5 @@ print("Hello, world!")
 <h1>Hello world</h1>
 </body>
 </html>
+```
 
