@@ -1,3 +1,4 @@
 # pythons
-` hello world 
+` hello world `
+> pip install git
 # pyth
